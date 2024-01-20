@@ -1,0 +1,7 @@
+following the tutorial and did some minor adjustment to fit pc reqs.
+OBSERVATION:
+increasing sample size increases avg accuracy(10k=0.55(9min) to 15k=0.56(18min) to 20k=0.56(36min)) 
+
+stopped increasing accuracy after 20k, (possible solution) maybe need to increase max_iter or use standard scaler model (didnt try due to long computing time)
+
+(please refer to text filesfor more details tq)
